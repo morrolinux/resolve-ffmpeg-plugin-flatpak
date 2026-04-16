@@ -21,4 +21,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/EdvinNilsson/ffmpeg_encoder_plugin.git
-        branch: main
+        # branch: main
+        tag: v1.2.1
